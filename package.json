@@ -1,0 +1,23 @@
+{
+  "name": "quark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavoto/quark.git"
+  },
+  "author": "cavoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavoto/quark/issues"
+  },
+  "homepage": "https://github.com/cavoto/quark#readme",
+  "dependencies": {
+    "@cloudant/cloudant": "^3.0.1",
+    "dotenv": "^6.2.0"
+  }
+}
